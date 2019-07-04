@@ -5,4 +5,5 @@ devoir débuter sous peu. Un système de versioning va devenir plus qu'important
 L'objectif principal est de mettre en place et gérer les premiers événements de ce dépôt Git.
 
 es tâches techniques à effectuer sont dans le fichier
-TODO
+TODOLes tâches techniques à effectuer sont dans le fichier
+Le site est disponible à l'adresse http://www.resanet.com/resaroute/"mmmmm
